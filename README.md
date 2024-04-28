@@ -6,7 +6,7 @@ FullStack Developer
 
 I'm freelance in thailand, looking for job.
 
-* 🌍  I'm based in Buriram Thailand
+* 🌍  I'm based in Thailand
 * ✉️  You can contact me at [cnewwy@gmail.com](mailto:cnewwy@gmail.com)
 * 🧠  I'm learning Golang
 
