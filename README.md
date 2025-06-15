@@ -6,7 +6,7 @@ I'm FullStack Developer
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [cnewwy@gmail.com](mailto:cnewwy@gmail.com)
-* 🚀  I'm currently working on [Gotham Town (FiveM Server)](http://discord.gg/gotham-town)
+* 🚀  I'm currently working on FiveM Server
 * 🧠  I'm learning Golang, Bun, Svelte
 
 ### Skills
