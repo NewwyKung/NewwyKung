@@ -8,7 +8,6 @@ I'm FullStack Developer
 * ✉️  You can contact me at [cnewwy@gmail.com](mailto:cnewwy@gmail.com)
 * 🚀  I'm currently working on FiveM Server
 * 🧠  I'm learning Golang, Bun, Svelte
-* ☕  [Coffee Me](https://buymeacoffee.com/newwy)
 
 ### Skills
 
