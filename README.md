@@ -11,9 +11,9 @@ I'm FullStack Developer
 * 🧠  I'm learning Golang, Bun, Svelte
 
 ### Skills
-**Programing language:** Lua, Python, Javascript, Go
-**Other Language:** HTML, XML CSS, MySQL
-**FrameWork & Other Skill:** UX/UI Design, Figma, Node/Bun, MySQL, MariaDB, MongoDB, Svelte, Vue, Jquery, RESTAPI, GraphQL, Postman,
+**Programing language:** Lua, Python, Javascript, Go <br />
+**Other Language:** HTML, XML CSS, MySQL <br />
+**FrameWork & Other Skill:** UX/UI Design, Figma, Node/Bun, MySQL, MariaDB, MongoDB, Svelte, Vue, Jquery, RESTAPI, GraphQL, Postman <br />
 
 
 ### Socials
