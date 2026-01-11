@@ -1,21 +1,19 @@
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nat B.
 ====================================================================================================================================
 
 I'm FullStack Developer
 -----------------------
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [cnewwy@gmail.com](mailto:cnewwy@gmail.com)
-* 🚀  I'm currently working on FiveM Server
-* 🧠  I'm learning Golang, Bun, Svelte
+* 🌍  I'm based in Thailand
+* ✉️  You can contact me at [cnewwy@gmail.com](mailto:cnewwy@gmail.com)
+* 🚀  I'm currently working on FiveM Server
+* 🧠  I'm learning Golang, Bun, Svelte
 
 ### Skills
-** Programing language: **
-Lua, Python, Javascript, Go
-** Other Language: **
-HTML, CSS, MySQL
-** FrameWork & Other Skill: **
-UX/UI Design, Figma, Node/Bun, MySQL, MariaDB, MongoDB, Svelte, Vue, Jquery 
+**Programing language:** Lua, Python, Javascript, Go
+**Other Language:** HTML, XML CSS, MySQL
+**FrameWork & Other Skill:** UX/UI Design, Figma, Node/Bun, MySQL, MariaDB, MongoDB, Svelte, Vue, Jquery, RESTAPI, GraphQL, Postman,
 
 
 ### Socials
