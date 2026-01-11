@@ -10,11 +10,11 @@ I'm FullStack Developer
 * 🧠  I'm learning Golang, Bun, Svelte
 
 ### Skills
-## Programing language:
+** Programing language: **
 Lua, Python, Javascript, Go
-## Other Language:
+** Other Language: **
 HTML, CSS, MySQL
-## FrameWork & Other Skill:
+** FrameWork & Other Skill: **
 UX/UI Design, Figma, Node/Bun, MySQL, MariaDB, MongoDB, Svelte, Vue, Jquery 
 
 
