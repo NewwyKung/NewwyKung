@@ -7,7 +7,7 @@ I'm FullStack Developer
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [cnewwy@gmail.com](mailto:cnewwy@gmail.com)
-* 🚀  I'm currently working on FiveM Server [My work experience: Deta Town, Aquarium, Gotham Town, Alert Town, Super Town]
+* 🚀  I'm currently working on FiveM Server [My work experience: Deta Town, Aquarium and 2.0, Gotham Town, Alert Town, Super Town]
 * 🧠  I'm learning Golang, Bun, Svelte
 
 ### Skills
